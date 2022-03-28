@@ -1,1 +1,1 @@
-Hallo mein name ist Tim
+Hi, what's the dog doing?
